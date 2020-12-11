@@ -13,4 +13,3 @@ Operationalize infrastructure at scale and deliver applications and services at 
 
 ### Certificate
 
-- [View](https://graduation.udacity.com/confirm/7N2F4KN)
